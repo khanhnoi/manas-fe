@@ -1,0 +1,100 @@
+@font-face {
+	font-family: EncorpadaClassic;
+	src: url(../fonts/ManasLivingFonts/Encorpada_Classic/Vietnamese/dooTypeEncorpadaClassic.otf);
+}
+@font-face {
+	font-family: SangBleuSans;
+	src: url(../fonts/ManasLivingFonts/SangBleuSans/SangBleuSans-Regular.otf);
+}
+@font-face {
+	font-family: BeVietNam;
+	src: url(../fonts/ManasLivingFonts/Be_Vietnam/BeVietnam-Regular.ttf);
+}
+@import "./loader/loader.scss";
+@import "./header/header.scss";
+@import "./homePage/homePage.scss";
+@import "./serviceItem//servireItem.scss";
+@import "./serviceItemHome/serviceItemHome.scss";
+@import "./newItemHome/newItemHome.scss";
+@import "./footer/footer.scss";
+
+@import "./reponsive/reponsive.scss";
+
+*{
+	-webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Old versions of Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+a {
+	text-decoration: none !important;
+}
+
+@keyframes zoomAuto {
+	0% {
+	  transform: scale(1);
+	}
+	100% {
+		transform: scale(1.5);
+  }
+}
+
+@keyframes headerItem {
+	0% {
+		opacity: 0;
+		visibility: hidden;
+		transform: translateX(400px);
+		-webkit-backface-visibility: hidden;
+	}
+	100% {
+		opacity: 1;
+		visibility: visible;
+		transform: translateX(0);
+		-webkit-backface-visibility: hidden;
+	}
+}
+
+@keyframes scroll {
+	0% {
+		transform: translateY(0);
+	}
+	100% {
+		transform: translateY(-10px);
+	}
+}
+
+@keyframes inputHr{
+	0% {
+		width: 35%;
+	}
+	100% {
+		width: 100%;
+	}
+}
+@keyframes err_success{
+	0% {
+		transform: translateX(100%);
+	}
+	100% {
+		transform: translateX(0);
+	}
+}
+
+@keyframes menuItem {
+	0% {
+		opacity: 0;
+		visibility: hidden;
+		transform: translateX(-30px);
+		-webkit-backface-visibility: hidden;
+	}
+	100% {
+		opacity: 1;
+		visibility: visible;
+		transform: translateX(0);
+		-webkit-backface-visibility: hidden;
+	}
+}

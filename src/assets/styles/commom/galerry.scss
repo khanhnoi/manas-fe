@@ -1,0 +1,75 @@
+.gallery {
+  padding: 30px 0;
+  .react-multi-carousel-dot-list {
+    bottom: 0 !important;
+  }
+  &-top {
+    color: #000000;
+    p {
+      &.-left {
+        font-size: 36px;
+        font-family: EncorpadaClassicBold;
+        font-weight: bold;
+        margin-right: 20%;
+      }
+      &.-right {
+        font-size: 18px;
+        font-family: SangBleuSans;
+      }
+    }
+  }
+  &-img {
+    padding-top: 30px;
+    .img-item {
+      background-size: cover;
+      background-position: center;
+      height: 350px !important;
+      width: 100%;
+      &-1 {
+        @include flex(57%);
+        margin: 0.75%;
+      }
+      &-2 {
+        @include flex(40%);
+        margin: 0.75%;
+      }
+      &-3 {
+        @include flex(23.5%);
+        margin: 0.75%;
+      }
+      &-4 {
+        @include flex(32%);
+        margin: 0.75%;
+      }
+      &-5 {
+        @include flex(40%);
+        margin: 0.75%;
+      }
+    }
+    img {
+      padding: 7.5px 0;
+      max-width: 100%;
+    }
+  }
+}
+
+.gallery-100 > div {
+  div {
+    height: 100%;
+  }
+}
+
+.ReactGridGallery {
+}
+.ReactGridGallery_tile {
+  width: 0;
+  height: 0;
+  .ReactGridGallery_tile-viewport {
+    img {
+      display: none;
+    }
+  }
+}
+.footerCount_lkhc9u {
+  display: none;
+}

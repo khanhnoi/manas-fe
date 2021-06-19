@@ -1,0 +1,58 @@
+.showroom-detail {
+  padding-top: 100px;
+  padding-bottom: 45px;
+  &-img {
+    height: 575px;
+  }
+  &-top {
+    p {
+      color: #000000;
+      &.-main {
+        font-family: EncorpadaClassicBold;
+        font-size: 36px;
+        font-weight: bold;
+        line-height: 1.17;
+        color: #000000;
+      }
+      &.-sub {
+        font-family: SangBleuSans;
+        font-size: 18px;
+      }
+    }
+  }
+  &-body {
+    padding: 60px 0;
+    padding-bottom: 30px;
+    font-family: SangBleuSans;
+    font-size: 18px;
+    color: #000000;
+  }
+  &-foot {
+    color: #000000;
+    margin: 0 -15px;
+    font-family: SangBleuSans;
+    font-size: 18px;
+    &-bold {
+      font-family: SangBleuSansBold;
+    }
+    p {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.showroom-map {
+  &-google {
+    height: 500px;
+    width: 100%;
+  }
+  &-title {
+    text-align: center;
+    font-family: EncorpadaClassicBold;
+    font-size: 36px;
+    color: #000000;
+    padding: 95px 15px;
+    padding-top: 65px;
+    margin: auto;
+  }
+}

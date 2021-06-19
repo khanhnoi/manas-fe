@@ -1,0 +1,188 @@
+{
+	"homepage": {
+		"service": "Dịch vụ cung cấp",
+		"view": "Xem dịch vụ hoàn chỉnh",
+		"new": {
+			"title": " Tin mới nhất",
+			"text": "This is a window on our world, an editorial project linked to the company through some of the themes we have always related with art, design, architecture, culture and literature.",
+			"button": "Xem tất cả bài viết"
+		},
+		"slice": {
+			"title": "Độc quyền của Manas",
+			"text": "You Could Snap Up This Midcentury Modern Relic in Philadelphia for $450K",
+			"spText": "Designed by Frank Weise, the 1951 Carner House features original Isamu Noguchi pendants and a collage of glass bands along the facade.",
+			"button": "Đọc tin"
+		},
+		"brand": {
+			"title": "Thương hiệu độc quyền",
+			"text": "We’re a highly collaborative team that enjoys working together and getting engaged in sharing our knowledge and experience. "
+		},
+		"foot": {
+			"title": "Nhận thông báo từ manas",
+			"placeholder": "Email của bạn",
+			"button": "Đăng ký ngay để nhận tin"
+		}
+	},
+	"about": {
+		"header": {
+			"title": "Câu chuyện của tôi"
+		},
+		"slicer": {
+			"title": "Các cơ sở"
+		},
+		"mission": {
+			"title": "Nhiệm vụ"
+		},
+		"end": {
+			"title": "Khám phá thương hiệu"
+		}
+	},
+	"designer": {
+		"info": {
+			"title": "Các kiến trúc sư"
+		},
+		"formCache": {
+			"textLeft": "Liên lạc với chúng tôi hôm nay, cho ngôi nhà mới của bạn",
+			"textRight": " Chúng tôi là một nhóm hợp tác cao, thích làm việc cùng nhau và tham gia vào việc chia sẻ kiến thức và kinh nghiệm của chúng tôi. Và sau đó phần tốt nhất bắt đầu.",
+			"placeholder": {
+				"name": "Họ và tên",
+				"phone": "Số điện thoại",
+				"email": "Email",
+				"subject": "Nghề nghiệp",
+				"comment": "Bình luận"
+			},
+			"button": "Gửi yêu cầu",
+			"textSmall": "Khi nhấp vào đây, bạn đã đồng ý với các điều khoản và điều kiện của chúng tôi"
+		}
+	},
+	"search": {
+		"title": {
+			"name": "Sofa",
+			"close": "Đóng tìm kiếm"
+		},
+		"product": {
+			"1": {
+				"title": "Brand",
+				"result": " Show all 20 products"
+			},
+			"2": {
+				"title": "Designers",
+				"result": ""
+			},
+			"3": {
+				"title": "News",
+				"result": " Show all 30 articles"
+			}
+		}
+	},
+	"collectionDetail": {
+		"brand": {
+			"title": "Thiết kế nổi bật",
+			"button": "Đến trang nhãn hiệu"
+		},
+		"slider": {
+			"title": "Nhãn hiệu khác"
+		},
+		"footer": {
+			"title": "Có lẻ bạn sẽ thích"
+		}
+	},
+	"designerDetail": {
+		"partner": "Cộng tác cùng với:",
+		"sign": "decameron",
+		"button": "Xem tất cả sản phẩm"
+	},
+	"newDetail": {
+		"logoText": "Manas Exclusives",
+		"titleItem": "Những bài viết liên quan",
+		"titleForm": "Nhận thông báo từ manas",
+		"buttonForm": "Đăng ký ngay để nhận tin"
+	},
+	"footer": {
+		"about": {
+			"title": "Về chúng tôi",
+			"list": {
+				"1": "Cơ cấu công ty",
+				"2": "Phòng trưng bày"
+			}
+		},
+		"solution": {
+			"title": "Gợi ý của chúng tôi",
+			"list": {
+				"1": "Thợ thủ công"
+			}
+		},
+		"service": {
+			"title": "Dịch vụ của chúng tôi",
+			"list": {
+				"1": "Nội thất & Kiến trúc",
+				"2": "Đèn chiếu sáng",
+				"3": "Tranh treo tường",
+				"4": "Nhà tắm",
+				"5": "Du thuyền"
+			}
+		},
+		"brandAndProduct": {
+			"title": "Thương hiệu và sản phẩm",
+			"list": {
+				"1": "Thương hiệu cao cấp ",
+				"2": "Thương hiệu hàng đầu"
+			}
+		},
+		"contact": {
+			"address": {
+				"title": "Địa chỉ",
+				"text": "No 18-20 Street 5, Sala Urban Area, An Loi Dong Ward, District 2, HCM"
+			},
+			"contact": {
+				"title": "Thông tin liên lạc ",
+				"text": "Tel: (+84) 28 6258 4999"
+			},
+			"email": {
+				"title": " Email",
+				"text": "info@manasliving.com"
+			}
+		},
+		"copyright": "© Copyright 2020 Manas Corporation"
+	},
+	"noProduct": "Không có sản phẩm nào cả",
+	"discoverBrand": "Tìm hiểu thương hiệu ",
+	"visitBrand": "Đến trang thương hiệu  ",
+	"Craftsmanship": "Người Thiết kế",
+	"visitDes": "Xem trang cá nhân",
+	"featured": "Đặc sắc",
+	"Philosophy of Language Design": "Triết lý thiết kế",
+	"High-End Quality": "Chất lượng cao",
+	"Products by": "Thiết kế của",
+	"Grid": "Cách xem",
+	"Level": "Cấp bậc",
+	"Category": "Danh mục",
+	"Product Gallery": "Danh mục sản phẩm",
+	"View the service": "Xem dịch vụ",
+	"About the service": "Về dịch vụ này",
+	"The Premium Showrooms": "Phòng trưng bày",
+	"Brand": "Nhãn hiệu",
+	"Location": "Vị trí",
+	"Products at": "Sản phẩm tại",
+	"Where to find our store": "Vị trí của phòng trưng bày",
+	"About Us": "Về chúng tôi",
+	"The Brands": "Các thương hiệu",
+	"Our Service": "Dịch vụ",
+	"News": "Bản tin",
+	"Our Store": "Cửa hàng",
+	"Search": "Tìm kiếm",
+	"Clear all": "Xóa hết",
+	"Close search": "Đóng tìm kiếm",
+	"Seen all product": "Xem tất cả sản phẩm",
+	"Showroom": "",
+	"The": "Phòng trưng bày",
+	"No new": "Không có tin nào cả",
+	"About Manas": "Giới thiệu",
+	"The email field is required": "Email không được để trống",
+	"You have successfully registered": "Bạn đã đăng ký thành công",
+	"The email must be a valid email address": "Email không đúng định dạng",
+	"You have successfully sent feedback": "Bạn đã gửi phản hồi thành công",
+	"Please enter the full information": "Bạn hãy nhập đầy đủ thông tin",
+	"Please confirm the CAPTCHA": "Hãy xác nhận CAPTCHA",
+	"Manas Furniture": "Nội thất Manas"
+}

@@ -1,0 +1,59 @@
+.designer-detail {
+  padding-top: 90px;
+
+  &-img {
+    height: 100%;
+  }
+  &-border {
+    padding-bottom: 90px;
+    border-bottom: solid 1px #58585a;
+  }
+  &-text {
+    &-header {
+      font-family: EncorpadaClassic;
+      font-size: 36px;
+      font-weight: bold;
+      line-height: 1.17;
+      color: #000000;
+      padding-bottom: 2rem;
+      .position {
+        font-size: 18px;
+        font-weight: normal;
+      }
+    }
+    &-body {
+      font-family: SangBleuSans;
+      font-size: 18px;
+      color: #000000;
+      padding-bottom: 4rem;
+    }
+    &-footer {
+      .partner {
+        font-family: SangBleuSans;
+        font-size: 18px;
+        font-weight: bold;
+        color: #888888;
+        padding-bottom: 1rem;
+      }
+      .sign {
+        display: inline-block;
+        font-family: EncorpadaClassicBold;
+        font-size: 36px;
+        color: #000000;
+      }
+    }
+  }
+}
+.see-all {
+  cursor: pointer;
+  margin: 0 auto;
+  font-family: SangBleuSans;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+  padding: 0.5rem 2rem;
+  border: solid 2px #58585a;
+  display: inline-block;
+  margin-bottom: 90px;
+}

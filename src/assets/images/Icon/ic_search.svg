@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 18 0 18 18 0 18"></polygon>
+    </defs>
+    <g id="Desktop-Ver2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06_Store-&amp;-Distributor_Landing" transform="translate(-1231.000000, -44.000000)">
+            <g id="Group-3" transform="translate(1231.000000, 44.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M7.31254413,12.3749117 C4.52082843,12.3749117 2.25017651,10.1039068 2.25017651,7.31254413 C2.25017651,4.52082843 4.52082843,2.24982349 7.31254413,2.24982349 C10.1042598,2.24982349 12.3749117,4.52082843 12.3749117,7.31254413 C12.3749117,10.1039068 10.1042598,12.3749117 7.31254413,12.3749117 Z M13.209461,11.6183808 C14.0951989,10.4089197 14.6250883,8.92304072 14.6250883,7.31254413 C14.6250883,3.28030125 11.344434,0 7.31254413,0 C3.28065427,0 0,3.28030125 0,7.31254413 C0,11.344434 3.28065427,14.6250883 7.31254413,14.6250883 C8.92304072,14.6250883 10.4092728,14.0951989 11.6187338,13.209108 L16.4092728,18 L18,16.4089197 L13.209461,11.6183808 Z" id="Fill-1" fill="#FEFEFE" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

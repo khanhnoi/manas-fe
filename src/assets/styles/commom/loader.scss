@@ -1,0 +1,32 @@
+.loader {
+    height: 100%;
+    width: 100%;
+    &-top {
+        transition: 1s;
+        position: absolute;
+        top: 0;
+        height: 50%;
+        z-index: 5;
+        background-color: #363636;
+        width: 100%;
+    }
+    &-bot {
+        transition: 1s;
+        position: absolute;
+        bottom: 0;
+        height: 50%;
+        z-index: 5;
+        background-color: #363636;
+        width: 100%;
+    }
+    img {
+        transition: 1s;
+        animation-delay: 0s;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        z-index: 20;
+        transform: translate(-50%, 0);
+        animation-name: none;
+    }
+}

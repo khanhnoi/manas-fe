@@ -1,0 +1,217 @@
+.news-landing {
+  padding-top: 105px;
+  .new-left {
+    &-top {
+      ul {
+        list-style: none;
+        li {
+          p {
+            cursor: pointer;
+            font-family: SangBleuSans;
+            font-size: 18px;
+            color: #000000;
+            padding-bottom: 1rem;
+            &-active {
+              font-weight: bold;
+              color: #ab5814;
+            }
+            &:hover {
+              color: #ab5814;
+            }
+          }
+        }
+      }
+    }
+    &-bottom {
+      padding-top: 1rem;
+      &-title {
+        font-family: SangBleuSans;
+        font-size: 18px;
+        font-weight: bold;
+        color: #ababac;
+        padding-bottom: 1rem;
+        border-bottom: solid 1px #58585a;
+      }
+      ul {
+        list-style: none;
+        li {
+          p {
+            cursor: pointer;
+            font-family: SangBleuSans;
+            font-size: 18px;
+            color: #000000;
+            line-height: 1.67;
+            margin-bottom: 0;
+          }
+        }
+      }
+    }
+  }
+  .new-right {
+    &-text {
+      color: 000000;
+      font-size: 18px;
+      font-family: SangBleuSans;
+    }
+    &-item {
+      display: flex;
+      flex-wrap: wrap;
+      padding-bottom: 45px;
+      &-img {
+        @include flex(45%);
+        &-detail {
+          height: 100%;
+        }
+      }
+      &-text {
+        @include flex(55%);
+        padding: 0 15px;
+        margin-top: auto;
+        &-title {
+          font-family: SangBleuSans;
+          font-size: 18px;
+          font-weight: bold;
+          color: #000000;
+        }
+        &-info {
+          font-family: SangBleuSans;
+          font-size: 16px;
+          color: #000000;
+          padding-top: 1rem;
+          padding-bottom: 5rem;
+        }
+        &-button {
+          cursor: pointer;
+          font-family: SangBleuSans;
+          font-size: 18px;
+          font-weight: bold;
+          text-align: center;
+          color: #000000;
+          border: solid 2px #58585a;
+          padding: 0.5rem 1.5rem;
+          display: inline-block;
+        }
+      }
+    }
+    &-pagenatie {
+      display: flex;
+      padding: 60px 0;
+      li {
+        margin: auto;
+        a {
+          font-family: SangBleuSans;
+          font-size: 18px;
+          line-height: 1.33;
+          text-align: center;
+          color: #000000;
+          &:first-child {
+            padding: 0.5rem 1rem;
+          }
+        }
+      }
+    }
+  }
+}
+.next-button {
+  width: 44px;
+  height: 44px;
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: 50%;
+  margin-left: 5rem;
+}
+.pre-button {
+  width: 44px;
+  height: 44px;
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: 50%;
+  margin-right: 5rem;
+}
+
+// font-family: SangBleuSans;
+// font-size: 18px;
+// font-weight: normal;
+// font-stretch: normal;
+// font-style: normal;
+// line-height: 1.33;
+// letter-spacing: normal;
+// text-align: center;
+// color: #000000;
+
+.paginate-wrapper {
+  a:hover {
+    text-decoration: none;
+  }
+  margin-top: 1rem;
+
+  li {
+    padding: 0 1rem;
+    span.lnr {
+      color: #ffffff;
+      font-size: 14px;
+      font-weight: 600;
+      vertical-align: middle;
+    }
+
+    a {
+      height: 35px;
+      width: 35px;
+      margin: 0 2px;
+      border-radius: 100%;
+      text-align: center;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+
+      font-size: 15px;
+      font-weight: 500;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1;
+      letter-spacing: normal;
+      vertical-align: middle;
+      color: #54667a;
+      transition: all 0.2s;
+
+      &:hover {
+        background: #000000;
+        color: #ffffff;
+        transition: all 0.2s;
+        span.lnr {
+          color: #ffffff;
+        }
+      }
+    }
+
+    &.active {
+      a {
+        background: #000000;
+        color: #ffffff;
+      }
+    }
+
+    &.disabled {
+      a {
+        cursor: default;
+      }
+
+      span.lnr {
+        color: #ffffff;
+      }
+    }
+  }
+}
+
+.paginate-nav > a {
+  background: #000000;
+  img {
+    text-align: center;
+  }
+}
+
+.paginate-nav {
+  &.disabled > a {
+    background: #cacaca !important;
+  }
+}

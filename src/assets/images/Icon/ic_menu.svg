@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="18px" viewBox="0 0 26 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Nav</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop-Ver2.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="06_Store-&amp;-Distributor_Landing" transform="translate(-1283.000000, -44.000000)" fill="#FFFFFF">
+            <g id="Nav" transform="translate(1283.000000, 44.000000)">
+                <g id="Menu">
+                    <rect id="Rectangle-2" transform="translate(13.000000, 15.888889) scale(1, -1) translate(-13.000000, -15.888889) " x="0" y="14.4444444" width="26" height="2.88888889"></rect>
+                    <rect id="Rectangle-2" transform="translate(13.000000, 8.611111) scale(1, -1) translate(-13.000000, -8.611111) " x="3" y="7.11111111" width="20" height="3"></rect>
+                    <rect id="Rectangle-2" transform="translate(13.000000, 1.444444) scale(1, -1) translate(-13.000000, -1.444444) " x="0" y="0" width="26" height="2.88888889"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

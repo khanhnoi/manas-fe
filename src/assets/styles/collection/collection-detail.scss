@@ -1,0 +1,103 @@
+.collection-detail {
+  padding-top: 60px;
+  .boder-bottom {
+    border-bottom: solid 1px #979797;
+    padding: 0 15px;
+  }
+  .collection-logo-text {
+    padding-bottom: 60px;
+    img {
+      max-width: 100%;
+    }
+    &-title {
+      font-family: EncorpadaClassicBold;
+      font-size: 36px;
+      color: #000000;
+      font-weight: bold;
+    }
+    &-body {
+      font-family: SangBleuSans;
+      font-size: 18px;
+      color: #000000;
+    }
+  }
+  .img-detail {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 620px;
+    margin-bottom: 70px;
+  }
+  .brand-website {
+    margin: auto 0;
+    &-text {
+
+      &-header {
+        p {
+          font-family: EncorpadaClassicBold;
+          font-size: 36px;
+          font-weight: bold;
+          color: #000000;
+        }
+      }
+      &-body {
+        p {
+          font-family: SangBleuSans;
+          font-size: 18px;
+          color: #000000;
+          margin-bottom: 2rem;
+        }
+      }
+      &-button {
+        font-family: SangBleuSans;
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+        color: #000000;
+        padding: 0.5rem 2rem;
+        display: inline-block;
+        border: solid 2px #58585a;
+      }
+    }
+    &-img {
+      &-detail {
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 510px;
+      }
+    }
+  }
+  &-footer {
+    &-title {
+      font-family: EncorpadaClassicBold;
+      padding-top: 3rem;
+      padding-bottom: 3rem;
+      margin-bottom: 0;
+      font-size: 36px;
+      font-weight: bold;
+      text-align: center;
+      color: #000000;
+    }
+    .text-header {
+      font-size: 16px !important;
+    }
+  }
+}
+
+.collection-slider {
+  overflow-x: hidden;
+  &-title {
+    font-family: EncorpadaClassicBold;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 60px;
+  }
+  .single-item {
+    padding: 30px 30px;
+    .single-text {
+    }
+  }
+}

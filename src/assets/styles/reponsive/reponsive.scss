@@ -1,0 +1,186 @@
+@media (max-width: 411px) {
+	.header {
+		&__homepage-position {
+			&__title {
+				font-size: 1.8rem;
+			}
+			&__text {
+				font-size: 15px;
+			}
+		}
+		&__menu-active {
+			&__social {
+				img {
+					width: 20px;
+					height: 20px;
+					margin: 10px 10px;
+				}
+			}
+			&__menu-list {
+				ul {
+					margin-bottom: 1.6rem;
+				}
+			}
+		}
+		.new-item-home {
+			height: 500px;
+			&__bg {
+				height: 500px;
+			}
+		}
+	}
+}
+
+@media (min-width: 412px) and (max-width: 991px) {
+	.header {
+		&__homepage-position {
+			&__title {
+				font-size: 3rem;
+			}
+			&__text {
+				font-size: 16px;
+			}
+		}
+	}
+}
+
+@media (max-width: 767px) {
+	#background-hover {
+		display: none;
+	}
+	.service-item {
+		&--type-1 {
+			flex-direction: row;
+			.service-item__detail {
+				padding-left: 15px;
+			}
+		}
+		&--type-2 {
+			flex-direction: row-reverse;
+			.service-item__detail {
+				padding-right: 15px;
+			}
+		}
+	}
+
+	.new-item-home {
+		// height: 450px;
+		&__bg {
+			// height: 450px;
+		}
+		&__main {
+			top: 15%;
+			left: 10%;
+			width: 70%;
+			&__title {
+				font-size: 12px;
+			}
+			&__text {
+				font-size: 20px;
+			}
+			&__sp-text {
+				font-size: 14px;
+			}
+			&__button {
+				font-size: 16px;
+			}
+		}
+	}
+	.footer {
+		&__lists {
+			padding-top: 20px;
+			&__logo {
+				display: flex;
+				justify-content: center;
+				img {
+					padding-bottom: 40px;
+				}
+			}
+			&__list {
+				display: none;
+			}
+		}
+		&__contact {
+			display: block;
+			&__item {
+				width: 100%;
+				text-align: center;
+			}
+		}
+		&__end {
+			&__copyright {
+				text-align: center;
+			}
+			&__social {
+				margin: 10px auto 20px auto;
+				img {
+					padding: 0 15px;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 991px) {
+	.new-item-home {
+		// height: 450px;
+		&__bg {
+			// height: 450px;
+		}
+		&__main {
+			top: 15%;
+			left: 10%;
+			width: 70%;
+			&__title {
+				font-size: 12px;
+			}
+			&__text {
+				font-size: 20px;
+			}
+			&__sp-text {
+				font-size: 14px;
+			}
+			&__button {
+				font-size: 16px;
+			}
+		}
+	}
+
+	.service-item {
+		&--type-1 {
+			flex-direction: row;
+			.service-item__detail {
+				padding-left: 15px;
+				padding-right: 10%;
+			}
+		}
+		&--type-2 {
+			.service-item__detail {
+				padding-right: 10%;
+			}
+		}
+	}
+	.footer {
+		&__lists {
+			&__list {
+				p {
+					font-size: 15px;
+				}
+				ul {
+					li {
+						p {
+							font-size: 14px;
+						}
+					}
+				}
+			}
+		}
+
+		&__contact {
+			&__item {
+				margin-right: 0;
+				padding-right: 3px !important;
+			}
+		}
+	}
+}

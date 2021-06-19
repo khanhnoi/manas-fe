@@ -1,0 +1,22 @@
+.loader {
+	width: 100vw;
+	height: 100vh;
+
+	background-color: #ffffff;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	&--fixed {
+		position: fixed;
+		top: 0;
+		
+		z-index: 1000;
+	}
+	&--bg {
+		position: absolute;
+		top: 0;
+
+		z-index: 1000;
+	}
+}

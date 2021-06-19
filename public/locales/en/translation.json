@@ -1,0 +1,189 @@
+{
+	"homepage": {
+		"service": "Our Services",
+		"view": "View Our Complete Services",
+		"new": {
+			"title": " Latest News",
+			"text": "This is a window on our world, an editorial project linked to the company through some of the themes we have always related with art, design, architecture, culture and literature.",
+			"button": "Browse All Articles"
+		},
+		"slice": {
+			"title": "Manas Exclusives",
+			"text": "You Could Snap Up This Midcentury Modern Relic in Philadelphia for $450K",
+			"spText": "Designed by Frank Weise, the 1951 Carner House features original Isamu Noguchi pendants and a collage of glass bands along the facade.",
+			"button": "Read Article"
+		},
+		"brand": {
+			"title": "Exclusive Brands",
+			"text": "We’re a highly collaborative team that enjoys working together and getting engaged in sharing our knowledge and experience. "
+		},
+		"foot": {
+			"title": "Get Manas Newsletter",
+			"placeholder": "Your email address",
+			"button": "Subscribe to our news letter"
+		}
+	},
+	"about": {
+		"header": {
+			"title": "Our Story"
+		},
+		"slicer": {
+			"title": "Our Facilities "
+		},
+		"mission": {
+			"title": "Our Mission"
+		},
+		"end": {
+			"title": "Explore Brands"
+		}
+	},
+	"designer": {
+		"info": {
+			"title": "Meet Our Cratsmanship"
+		},
+		"formCache": {
+			"textLeft": "Contact us today, for your fresh-new house",
+			"textRight": " We’re a highly collaborative team that enjoys working together and getting engaged in sharing our knowledge and experience. And then the best part begins.",
+			"placeholder": {
+				"name": "Full Name",
+				"phone": "Phone number",
+				"email": "Email",
+				"subject": "Subject",
+				"comment": "Comment"
+			},
+			"button": "Send a request",
+			"textSmall": "By clicking this, you’re agree with our terms & conditions"
+		}
+	},
+	"search": {
+		"title": {
+			"name": "Sofa",
+			"close": "Close search"
+		},
+		"product": {
+			"1": {
+				"title": "Brand",
+				"result": " Show all 20 products"
+			},
+			"2": {
+				"title": "Designers",
+				"result": ""
+			},
+			"3": {
+				"title": "News",
+				"result": " Show all 30 articles"
+			}
+		}
+	},
+	"collectionDetail": {
+		"brand": {
+			"title": "The Signature Design",
+			"button": " Visit Brand Website"
+		},
+		"slider": {
+			"title": "In Use"
+		},
+		"footer": {
+			"title": "You may also like"
+		}
+	},
+	"designerDetail": {
+		"partner": "In partnership with:",
+		"sign": "decameron",
+		"button": "See All Products"
+	},
+	"newDetail": {
+		"logoText": "Manas Exclusives",
+		"titleItem": "Related Articles",
+		"titleForm": "Get Manas Newsletter",
+		"placeholder": "Your email address",
+		"buttonForm": "Subscribe to our newsletter"
+	},
+	"footer": {
+		"about": {
+			"title": "About us",
+			"list": {
+				"1": "Company Structure",
+				"2": "Showrooms"
+			}
+		},
+		"solution": {
+			"title": "Our Solutions",
+			"list": {
+				"1": "The Craftsmen"
+			}
+		},
+		"service": {
+			"title": "Our Services",
+			"list": {
+				"1": "Interior & Architecture",
+				"2": "Lighting Solutions",
+				"3": "Wall Art",
+				"4": "Sanitary",
+				"5": "Yacht Interior"
+			}
+		},
+		"brandAndProduct": {
+			"title": "Brands & Products",
+			"list": {
+				"1": "Luxury Brands",
+				"2": "Premier Brands"
+			}
+		},
+		"contact": {
+			"address": {
+				"title": "Headquarters & Manas Living Exchange",
+				"text": "No 18-20 Street 5, Sala Urban Area, An Loi Dong Ward, District 2, HCM"
+			},
+			"contact": {
+				"title": "Contact us",
+				"text": "Tel: (+84) 28 6258 4999"
+			},
+			"email": {
+				"title": " Email",
+				"text": "info@manasliving.com"
+			}
+		},
+		"copyright": "© Copyright 2020 Manas Corporation"
+	},
+	"noProduct": "No product",
+	"discoverBrand": "Discover Our Brands",
+	"visitBrand": "Visit our brand",
+	"Craftsmanship": "Craftsmanship",
+	"visitDes": "Visit Designer Profiles",
+	"featured": "Featured",
+	"Philosophy of Language Design": "Philosophy of Language Design",
+	"High-End Quality": "High-End Quality",
+	"Products by": "Products by",
+	"Grid": "Grid",
+	"Level": "Level",
+	"Category": "Category",
+	"Product Gallery": "Product Gallery",
+	"View the service": "View the service",
+	"About the service": "About the service",
+	"The Premium Showrooms": "The Premium Showrooms",
+	"Brand": "Brand",
+	"Location": "Location",
+	"Products at": "Products at",
+	"Where to find our store": "Where to find our store",
+	"About Us": "About Us",
+	"The Brands": "The Brands",
+	"Our Service": "Our Service",
+	"News": "News",
+	"Our Store": "Our Store",
+	"Search": "Search",
+	"Clear all": "Clear all",
+	"Close search": "Close search",
+	"Seen all product": "Seen all product",
+	"Showroom": "Showroom",
+	"The": "The",
+	"No new": "No news",
+	"About Manas": "About Manas",
+	"The email field is required": "The email field is required.",
+	"You have successfully registered": "You have successfully registered",
+	"The email must be a valid email address": "The email must be a valid email address",
+	"You have successfully sent feedback": "You have successfully sent feedback",
+	"Please enter the full information": "Please enter the full information",
+	"Please confirm the CAPTCHA": "Please confirm the CAPTCHA",
+	"Manas Furniture": "Manas Furniture"
+}

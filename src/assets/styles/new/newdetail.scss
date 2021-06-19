@@ -1,0 +1,160 @@
+.new-detail {
+  padding-bottom: 45px;
+  &-logo {
+    padding-top: 105px;
+    padding-bottom: 120px;
+    display: flex;
+    margin-left: 10%;
+    max-width: 80% !important;
+    &-text {
+      font-family: SangBleuSans;
+      font-size: 12px;
+      font-weight: bold;
+      color: #ab5814;
+    }
+    &-social {
+      margin-left: auto;
+      img {
+        padding: 0 1rem;
+      }
+    }
+  }
+  &-title {
+    padding-bottom: 40px;
+    margin-left: 10%;
+    max-width: 80% !important;
+    p {
+      font-family: EncorpadaClassicBold;
+      font-size: 36px;
+      font-weight: bold;
+      color: #000000;
+    }
+  }
+  &-text {
+    margin-left: 10%;
+    max-width: 80% !important;
+    p {
+      font-family: SangBleuSans;
+      font-size: 18px;
+      color: #000000;
+      padding-bottom: 1rem;
+    }
+    &-inside {
+      margin-left: 20%;
+      max-width: 70% !important;
+      padding-bottom: 1rem;
+    }
+  }
+  &-img {
+    margin-left: 10%;
+    max-width: 85% !important;
+    &-detail {
+      height: 410px;
+    }
+    &-info {
+      padding-top: 45px;
+      font-family: SangBleuSans;
+      font-size: 14px;
+      color: #000000;
+      margin-left: 10%;
+      max-width: 80% !important;
+    }
+    &-author {
+      padding-bottom: 45px;
+      p {
+        font-family: SangBleuSans;
+        font-size: 14px;
+        margin-left: 10%;
+        max-width: 80% !important;
+      }
+      &-name {
+        font-weight: bold;
+        color: #565656;
+      }
+      &-cate {
+        color: #565656;
+      }
+    }
+  }
+  &-imgcol {
+    margin-left: 10%;
+    max-width: 85% !important;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 45px;
+    &-detail {
+      @include flex(45%);
+      height: 630px;
+    }
+    &-left {
+      @include flex(55%);
+      margin-top: auto;
+    }
+    &-info {
+      padding-top: 45px;
+      font-family: SangBleuSans;
+      font-size: 14px;
+      color: #000000;
+      margin-left: 2rem;
+    }
+    &-author {
+      p {
+        font-family: SangBleuSans;
+        font-size: 14px;
+        margin-left: 10%;
+        max-width: 80% !important;
+        margin-left: 2rem;
+      }
+      &-name {
+        font-weight: bold;
+        color: #565656;
+      }
+      &-cate {
+        color: #565656;
+        margin-bottom: 0;
+      }
+    }
+  }
+  &-footer {
+    margin-left: 20%;
+    padding-bottom: 45px;
+    p {
+      font-family: SangBleuSans;
+      font-size: 18px;
+      color: #000000;
+      span {
+        font-weight: bold;
+      }
+    }
+  }
+  &-border {
+    border-top: solid 1px #979797;
+    height: 1px;
+    width: 100%;
+  }
+}
+
+.new-detail-item {
+  padding-top: 90px;
+  &-title {
+    opacity: 0.9;
+    font-family: EncorpadaClassicBold;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: #000000;
+    margin: auto;
+  }
+}
+.new-detail-detail {
+  font-family: SangBleuSans;
+}
+.detail-news {
+  max-width: 100%;
+  p {
+    padding: 0 15px;
+  }
+  img {
+    max-width: 100%;
+  }
+}
